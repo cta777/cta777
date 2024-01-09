@@ -35,7 +35,6 @@ src="https://camo.githubusercontent.com/eb0af45c02b821bd38dede2ff065de360a736806
      />&nbsp;
 
 
-https://user-images.githubusercontent.com/11183158/43805223-f23c1250-9a6c-11e8-9677-a45e08df2d7c.png
   
 </div>
 web Database management website
